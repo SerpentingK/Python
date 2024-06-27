@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "1",
+        "nombre": "Juan",
+        "edad": 22,
+        "fecha_nacimineto": "04/06/2004",
+        "fecha_consulta": "05/05/2024"
+    },
+    {
+        "codigo": "2",
+        "nombre": "Sofia",
+        "edad": 25,
+        "fecha_nacimineto": "04/06/1999",
+        "fecha_consulta": "26-06-2024"
+    },
+    {
+        "codigo": "3",
+        "nombre": "Sofia",
+        "edad": 30,
+        "fecha_nacimineto": "04-06-1999",
+        "fecha_consulta": "13-06-2024"
+    }
+]

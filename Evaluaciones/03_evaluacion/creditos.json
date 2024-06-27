@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "doc": "1",
+        "nombre": "David",
+        "apellido": "Carrillo",
+        "email": "carrillo@",
+        "tel": "324324",
+        "edad": 20,
+        "monto": 10000000.0,
+        "fecha": "01/02/2024",
+        "saldo": 10000000.0,
+        "estado": "activo",
+        "linea": "compra de vehiculo"
+    },
+    {
+        "id": "2",
+        "doc": "2",
+        "nombre": "David",
+        "apellido": "Carrillo",
+        "email": "carrillo@",
+        "tel": "324324",
+        "edad": 65,
+        "monto": 10000000.0,
+        "fecha": "01/02/2024",
+        "saldo": 10000000.0,
+        "estado": "activo",
+        "linea": "compra de vehiculo"
+    }
+]
